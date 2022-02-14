@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wellbextest/static/css/main.411fcccd.css",
+    "main.js": "/wellbextest/static/js/main.83b3c6d7.js",
+    "index.html": "/wellbextest/index.html",
+    "main.411fcccd.css.map": "/wellbextest/static/css/main.411fcccd.css.map",
+    "main.83b3c6d7.js.map": "/wellbextest/static/js/main.83b3c6d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.411fcccd.css",
+    "static/js/main.83b3c6d7.js"
+  ]
+}
