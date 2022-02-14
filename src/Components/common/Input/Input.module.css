@@ -1,0 +1,18 @@
+.container{
+    padding: 4px;
+    display: flex;
+    align-items: center;
+}
+
+.container input{
+    background-color: white;
+    border: none;
+    outline: none;
+}
+
+.container button{
+    background-color: white;
+    border: none;
+}
+
+

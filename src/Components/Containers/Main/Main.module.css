@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    padding: 12px;
+    gap: 16px;
+}
+
+.content {
+    display: flex;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: column;
+    width: min-content;
+}
+
+.navbar button{
+    margin-bottom: 12px;
+    width: max-content;
+}
